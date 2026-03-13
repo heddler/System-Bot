@@ -12,8 +12,8 @@ lock, unlock, slowmode
 ## Info Commands: 
 serverinfo, userinfo, avatar, ping
 
-##Events: 
-guildMemberAdd, guildMemberRemove, messageDelete, messageUpdate
+## Events: 
+Member Joined, Member Leave, messageDelete, messageUpdate
 
 ## Permissions Logs: permmisionchecker, logs
 
