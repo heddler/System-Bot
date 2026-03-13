@@ -1,7 +1,7 @@
 ## ⚡ Features
 
 # Moderation: 
-ban, kick, mute, unmute
+ban, unban, kick, mute, unmute
 
 ## Warnings System: 
 warn, warnings, clearwarnings
