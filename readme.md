@@ -1,6 +1,6 @@
-⚡ Features
+## ⚡ Features
 
-## Moderation: 
+# Moderation: 
 ban, kick, mute, unmute
 
 ## Warnings System: 
