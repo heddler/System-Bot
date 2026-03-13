@@ -1,0 +1,17 @@
+{
+  "token": "bot_token",
+  "clientId": "application_bot_id",
+  "guildId": "server_id",
+
+  "roles": {
+    "ban": "ROLE_ID",
+    "kick": "ROLE_ID",
+    "mute": "ROLE_ID",
+    "warn": "ROLE_ID",
+    "clear": "ROLE_ID",
+    "lock": "ROLE_ID",
+    "slowmode": "ROLE_ID"
+  },
+
+  "logChannel": "log_channel"
+}
